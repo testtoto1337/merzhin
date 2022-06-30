@@ -37,11 +37,11 @@ import (
 	uuid "github.com/satori/go.uuid"
 
 	// Merlin
-	"github.com/Ne0nd0g/merlin/pkg/api/messages"
-	"github.com/Ne0nd0g/merlin/pkg/core"
-	"github.com/Ne0nd0g/merlin/pkg/handlers"
-	"github.com/Ne0nd0g/merlin/pkg/servers"
-	"github.com/Ne0nd0g/merlin/pkg/util"
+	"github.com/testtoto1337/merzhin/pkg/api/messages"
+	"github.com/testtoto1337/merzhin/pkg/core"
+	"github.com/testtoto1337/merzhin/pkg/handlers"
+	"github.com/testtoto1337/merzhin/pkg/servers"
+	"github.com/testtoto1337/merzhin/pkg/util"
 )
 
 // Server is a structure for the HTTP3 server

@@ -24,11 +24,11 @@ import (
 	"time"
 
 	// Merlin
-	"github.com/Ne0nd0g/merlin/pkg/agents"
-	agentAPI "github.com/Ne0nd0g/merlin/pkg/api/agents"
-	"github.com/Ne0nd0g/merlin/pkg/api/messages"
-	"github.com/Ne0nd0g/merlin/pkg/modules"
-	"github.com/Ne0nd0g/merlin/pkg/server/jobs"
+	"github.com/testtoto1337/merzhin/pkg/agents"
+	agentAPI "github.com/testtoto1337/merzhin/pkg/api/agents"
+	"github.com/testtoto1337/merzhin/pkg/api/messages"
+	"github.com/testtoto1337/merzhin/pkg/modules"
+	"github.com/testtoto1337/merzhin/pkg/server/jobs"
 )
 
 // GetModuleListCompleter return a tab completer of available modules for CLI interactions

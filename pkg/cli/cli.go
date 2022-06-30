@@ -34,9 +34,9 @@ import (
 	"github.com/satori/go.uuid"
 
 	// Merlin
-	"github.com/Ne0nd0g/merlin/pkg/api/messages"
-	"github.com/Ne0nd0g/merlin/pkg/cli/core"
-	"github.com/Ne0nd0g/merlin/pkg/cli/menu"
+	"github.com/testtoto1337/merzhin/pkg/api/messages"
+	"github.com/testtoto1337/merzhin/pkg/cli/core"
+	"github.com/testtoto1337/merzhin/pkg/cli/menu"
 )
 
 // Global Variables

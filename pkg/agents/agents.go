@@ -32,11 +32,11 @@ import (
 	"github.com/satori/go.uuid"
 
 	// Merlin
-	messageAPI "github.com/Ne0nd0g/merlin/pkg/api/messages"
-	"github.com/Ne0nd0g/merlin/pkg/core"
-	"github.com/Ne0nd0g/merlin/pkg/logging"
-	"github.com/Ne0nd0g/merlin/pkg/messages"
-	"github.com/Ne0nd0g/merlin/pkg/opaque"
+	messageAPI "github.com/testtoto1337/merzhin/pkg/api/messages"
+	"github.com/testtoto1337/merzhin/pkg/core"
+	"github.com/testtoto1337/merzhin/pkg/logging"
+	"github.com/testtoto1337/merzhin/pkg/messages"
+	"github.com/testtoto1337/merzhin/pkg/opaque"
 )
 
 // Global Variables

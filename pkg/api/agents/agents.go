@@ -31,14 +31,14 @@ import (
 	uuid "github.com/satori/go.uuid"
 
 	// Merlin
-	"github.com/Ne0nd0g/merlin/pkg/agents"
-	"github.com/Ne0nd0g/merlin/pkg/api/messages"
-	"github.com/Ne0nd0g/merlin/pkg/core"
-	"github.com/Ne0nd0g/merlin/pkg/modules/donut"
-	"github.com/Ne0nd0g/merlin/pkg/modules/sharpgen"
-	"github.com/Ne0nd0g/merlin/pkg/modules/shellcode"
-	"github.com/Ne0nd0g/merlin/pkg/modules/winapi/createprocess"
-	"github.com/Ne0nd0g/merlin/pkg/server/jobs"
+	"github.com/testtoto1337/merzhin/pkg/agents"
+	"github.com/testtoto1337/merzhin/pkg/api/messages"
+	"github.com/testtoto1337/merzhin/pkg/core"
+	"github.com/testtoto1337/merzhin/pkg/modules/donut"
+	"github.com/testtoto1337/merzhin/pkg/modules/sharpgen"
+	"github.com/testtoto1337/merzhin/pkg/modules/shellcode"
+	"github.com/testtoto1337/merzhin/pkg/modules/winapi/createprocess"
+	"github.com/testtoto1337/merzhin/pkg/server/jobs"
 )
 
 // CD is used to change the agent's current working directory

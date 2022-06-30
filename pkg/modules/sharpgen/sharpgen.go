@@ -33,8 +33,8 @@ import (
 	"strings"
 
 	// Merlin
-	"github.com/Ne0nd0g/merlin/pkg/core"
-	"github.com/Ne0nd0g/merlin/pkg/modules/donut"
+	"github.com/testtoto1337/merzhin/pkg/core"
+	"github.com/testtoto1337/merzhin/pkg/modules/donut"
 )
 
 // Parse is the initial entry point for all extended modules. All validation checks and processing will be performed here

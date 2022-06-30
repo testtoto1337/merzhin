@@ -30,11 +30,11 @@ import (
 	"github.com/olekukonko/tablewriter"
 
 	// Merlin
-	agentAPI "github.com/Ne0nd0g/merlin/pkg/api/agents"
-	"github.com/Ne0nd0g/merlin/pkg/api/messages"
-	moduleAPI "github.com/Ne0nd0g/merlin/pkg/api/modules"
-	"github.com/Ne0nd0g/merlin/pkg/cli/core"
-	"github.com/Ne0nd0g/merlin/pkg/modules"
+	agentAPI "github.com/testtoto1337/merzhin/pkg/api/agents"
+	"github.com/testtoto1337/merzhin/pkg/api/messages"
+	moduleAPI "github.com/testtoto1337/merzhin/pkg/api/modules"
+	"github.com/testtoto1337/merzhin/pkg/cli/core"
+	"github.com/testtoto1337/merzhin/pkg/modules"
 )
 
 // module is used to track the current module that the CLI is interacting with

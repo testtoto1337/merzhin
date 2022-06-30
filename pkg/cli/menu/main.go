@@ -31,13 +31,13 @@ import (
 	"github.com/olekukonko/tablewriter"
 
 	// Merlin
-	merlin "github.com/Ne0nd0g/merlin/pkg"
-	agentAPI "github.com/Ne0nd0g/merlin/pkg/api/agents"
-	"github.com/Ne0nd0g/merlin/pkg/api/messages"
-	moduleAPI "github.com/Ne0nd0g/merlin/pkg/api/modules"
-	"github.com/Ne0nd0g/merlin/pkg/cli/banner"
-	"github.com/Ne0nd0g/merlin/pkg/cli/core"
-	serverCore "github.com/Ne0nd0g/merlin/pkg/core"
+	merlin "github.com/testtoto1337/merzhin/pkg"
+	agentAPI "github.com/testtoto1337/merzhin/pkg/api/agents"
+	"github.com/testtoto1337/merzhin/pkg/api/messages"
+	moduleAPI "github.com/testtoto1337/merzhin/pkg/api/modules"
+	"github.com/testtoto1337/merzhin/pkg/cli/banner"
+	"github.com/testtoto1337/merzhin/pkg/cli/core"
+	serverCore "github.com/testtoto1337/merzhin/pkg/core"
 )
 
 // handlerMain contains the logic to handle the "main" menu commands

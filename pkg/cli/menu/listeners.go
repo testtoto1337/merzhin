@@ -30,11 +30,11 @@ import (
 	uuid "github.com/satori/go.uuid"
 
 	// Merlin
-	agentAPI "github.com/Ne0nd0g/merlin/pkg/api/agents"
-	listenerAPI "github.com/Ne0nd0g/merlin/pkg/api/listeners"
-	"github.com/Ne0nd0g/merlin/pkg/api/messages"
-	"github.com/Ne0nd0g/merlin/pkg/cli/core"
-	"github.com/Ne0nd0g/merlin/pkg/servers"
+	agentAPI "github.com/testtoto1337/merzhin/pkg/api/agents"
+	listenerAPI "github.com/testtoto1337/merzhin/pkg/api/listeners"
+	"github.com/testtoto1337/merzhin/pkg/api/messages"
+	"github.com/testtoto1337/merzhin/pkg/cli/core"
+	"github.com/testtoto1337/merzhin/pkg/servers"
 )
 
 // handlerListeners handles all the logic for the root Listeners menu

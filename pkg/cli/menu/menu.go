@@ -18,7 +18,7 @@
 package menu
 
 import (
-	"github.com/Ne0nd0g/merlin/pkg/cli/core"
+	"github.com/testtoto1337/merzhin/pkg/cli/core"
 )
 
 var handler func([]string)

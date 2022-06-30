@@ -36,16 +36,16 @@ import (
 	"github.com/satori/go.uuid"
 
 	// Merlin
-	"github.com/Ne0nd0g/merlin/pkg/agents"
-	"github.com/Ne0nd0g/merlin/pkg/core"
+	"github.com/testtoto1337/merzhin/pkg/agents"
+	"github.com/testtoto1337/merzhin/pkg/core"
 
 	// Merlin Modules
-	"github.com/Ne0nd0g/merlin/pkg/modules/donut"
-	"github.com/Ne0nd0g/merlin/pkg/modules/minidump"
-	"github.com/Ne0nd0g/merlin/pkg/modules/sharpgen"
-	"github.com/Ne0nd0g/merlin/pkg/modules/shellcode"
-	"github.com/Ne0nd0g/merlin/pkg/modules/srdi"
-	"github.com/Ne0nd0g/merlin/pkg/modules/winapi/createprocess"
+	"github.com/testtoto1337/merzhin/pkg/modules/donut"
+	"github.com/testtoto1337/merzhin/pkg/modules/minidump"
+	"github.com/testtoto1337/merzhin/pkg/modules/sharpgen"
+	"github.com/testtoto1337/merzhin/pkg/modules/shellcode"
+	"github.com/testtoto1337/merzhin/pkg/modules/srdi"
+	"github.com/testtoto1337/merzhin/pkg/modules/winapi/createprocess"
 )
 
 // Module is a structure containing the base information or template for modules
@@ -218,7 +218,7 @@ func (m *Module) SetOption(option string, value []string) (string, error) {
 	// Verify this option exists
 	for k, v := range m.Options {
 		if option == v.Name {
-			// Take in a slice of string for arguments that contain spaces; https://github.com/Ne0nd0g/merlin/issues/88
+			// Take in a slice of string for arguments that contain spaces; https://github.com/testtoto1337/merzhin/issues/88
 			m.Options[k].Value = strings.Join(value, " ")
 			return fmt.Sprintf("%s set to %s", v.Name, m.Options[k].Value), nil
 		}

@@ -31,10 +31,10 @@ import (
 	"gopkg.in/square/go-jose.v2/jwt"
 
 	// Merlin
-	"github.com/Ne0nd0g/merlin/pkg/agents"
-	"github.com/Ne0nd0g/merlin/pkg/core"
-	"github.com/Ne0nd0g/merlin/pkg/logging"
-	"github.com/Ne0nd0g/merlin/pkg/messages"
+	"github.com/testtoto1337/merzhin/pkg/agents"
+	"github.com/testtoto1337/merzhin/pkg/core"
+	"github.com/testtoto1337/merzhin/pkg/logging"
+	"github.com/testtoto1337/merzhin/pkg/messages"
 )
 
 // GetJWT returns a JSON Web Token for the provided agent using the interface JWT Key

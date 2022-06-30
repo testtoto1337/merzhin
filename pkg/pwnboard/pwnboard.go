@@ -27,8 +27,8 @@ import (
 	"time"
 
 	// Merlin
-	"github.com/Ne0nd0g/merlin/pkg/api/agents"
-	"github.com/Ne0nd0g/merlin/pkg/logging"
+	"github.com/testtoto1337/merzhin/pkg/api/agents"
+	"github.com/testtoto1337/merzhin/pkg/logging"
 )
 
 /*

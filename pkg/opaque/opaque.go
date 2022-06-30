@@ -29,7 +29,7 @@ import (
 	uuid "github.com/satori/go.uuid"
 	"go.dedis.ch/kyber/v3"
 	// Internal"
-	"github.com/Ne0nd0g/merlin/pkg/core"
+	"github.com/testtoto1337/merzhin/pkg/core"
 )
 
 // init registers message types with gob that are an interface for Base.Payload

@@ -26,11 +26,11 @@ import (
 	"github.com/fatih/color"
 
 	// Merlin
-	"github.com/Ne0nd0g/merlin/pkg"
-	"github.com/Ne0nd0g/merlin/pkg/cli"
-	"github.com/Ne0nd0g/merlin/pkg/cli/banner"
-	"github.com/Ne0nd0g/merlin/pkg/logging"
-	"github.com/Ne0nd0g/merlin/pkg/pwnboard"
+	"github.com/testtoto1337/merzhin/pkg"
+	"github.com/testtoto1337/merzhin/pkg/cli"
+	"github.com/testtoto1337/merzhin/pkg/cli/banner"
+	"github.com/testtoto1337/merzhin/pkg/logging"
+	"github.com/testtoto1337/merzhin/pkg/pwnboard"
 )
 
 // Global Variables

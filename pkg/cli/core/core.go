@@ -32,8 +32,8 @@ import (
 	"github.com/olekukonko/tablewriter"
 
 	// Merlin
-	"github.com/Ne0nd0g/merlin/pkg/api/messages"
-	"github.com/Ne0nd0g/merlin/pkg/logging"
+	"github.com/testtoto1337/merzhin/pkg/api/messages"
+	"github.com/testtoto1337/merzhin/pkg/logging"
 )
 
 // Prompt is the command line interface prompt object
