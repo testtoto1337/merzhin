@@ -76,7 +76,7 @@ const (
 
 // Job is used to task an agent to run a command
 type Job struct {
-	AgentID uuid.UUID   // ID of the agent the job belong to
+	AID uuid.UUID   // ID of the agent the job belong to
 	ID      string      // Unique identifier for each job
 	Token   uuid.UUID   // A unique token for each task that acts like a CSRF token to prevent multiple job messages
 	Type    int         // The type of job it is (e.g., FileTransfer
