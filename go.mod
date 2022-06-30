@@ -1,4 +1,4 @@
-module github.com/Ne0nd0g/merlin
+module github.com/testtoto1337/merzhin
 
 go 1.16
 
